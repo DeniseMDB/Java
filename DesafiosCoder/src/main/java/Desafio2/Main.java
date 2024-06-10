@@ -1,4 +1,4 @@
-package Clase02;
+package Desafio2;
 
 import java.util.ArrayList;
 import java.util.Collections;
